@@ -1,2 +1,3 @@
-Creating a new branch is quick AND simple.test1 content，想要问问你敢不??test2 content ------------.
+锘緾reating a new branch is quick AND simple.test1 content锛屾兂瑕侀棶闂綘鏁笉??test2 content ------------.
 modifile file test by cbc
+fen zhi guan li ci lue.
