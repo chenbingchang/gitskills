@@ -1,3 +1,4 @@
 ﻿dev enviroment config.// 2018-11-13
 resolve bug-110 by cbc // 2018-11-13 10:52
+完成一半的工作，还不可以提交
 resolve bug-103 问题描述:首页图片轮播会卡死 by cbc //2018-11-13 11:15
